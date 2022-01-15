@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Paulhar89
 - 👀 I’m interested in home automation ..
+- 🛖 I’m setting up my home assistant ..
 - 🌱 I’m currently trying to understand programming..
 - 📫 How to reach me ... Paulhar89@gmail.com 
 
